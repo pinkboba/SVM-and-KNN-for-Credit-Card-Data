@@ -1,2 +1,2 @@
 # Support Vector Machine
- Support Vector Machine Classification Model
+ Support Vector Machine Classification Model for Credit Card Data
